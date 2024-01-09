@@ -1,5 +1,5 @@
 # [:] Example Go project.
-
+ 
 An example Go project that does not use any package manager to demonstrate [SourceClear](https://www.sourceclear.com) scans.
  
 ## Install and activate SourceClear
